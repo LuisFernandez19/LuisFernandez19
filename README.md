@@ -31,7 +31,7 @@ Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologi
   <a href="https://instagram.com/riickfernandez" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.com/channels/1324395934968184952/1324395934968184955" target="_blank">
+  <a href="https://discord.gg/utMnfxbt" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/luis-fernandez-5a6464213" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
