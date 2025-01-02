@@ -1,5 +1,5 @@
 # Welcome to my GitHub! 
-I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
+Me chamo Luis Fernandez, um curioso e apaixonado por tecnologia.
 
 ![Luis Fernandez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandez19&theme=dark&show_icons=true)
 
