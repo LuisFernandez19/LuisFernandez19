@@ -1,7 +1,9 @@
-Welcome to my GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
+# Welcome to my GitHub! 
+I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
 
 ![Luis Fernandez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandez19&theme=dark&show_icons=true)
 
+---
 
 ### A bit about me 🌟
 
@@ -13,16 +15,25 @@ Welcome to my GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia
   - 🇬🇧 Inglês (intermediário)
   - 🇫🇷 Francês (básico)
 
+---
+
 ### Fun Facts About Me ⚡
 
 - 🌱 Sempre aprendendo algo novo e acreditando no crescimento contínuo.
 - 💬 Se quiser bater um papo sobre Python, Engenharia de Software, ou trocar experiências sobre Salesforce, estou por aqui!
 
+---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/95bfb46a-7687-4135-ba31-c829dcc805b6" alt="WhatsApp Image" width="300">
+</div>
+
+---
+
 ### Let’s Connect! 📫
 - **E-mail**: [fernandezlh19@gmail.com](mailto:fernandezlh19@gmail.com)
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/luis-fernandez-5a6464213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-##
+---
 
 <div>
   <a href="https://www.youtube.com/@luisfernandez_19" target="_blank">
@@ -39,16 +50,15 @@ Welcome to my GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia
   </a> 
 </div>
 
-##
-
 ---
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-🚀 *"A jornada é tão importante quanto o destino."*
+---
 
-<img src="./Caricatura.png" width="150" height="150" />
+🚀 *"A jornada é tão importante quanto o destino."*
