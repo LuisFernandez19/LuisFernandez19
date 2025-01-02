@@ -1,4 +1,4 @@
-Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
+Welcome to my GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
 
 ![Luis Fernandez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandez19&theme=dark&show_icons=true)
 
@@ -33,6 +33,7 @@ Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologi
   </a>
   <a href="https://discord.gg/utMnfxbt" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/luis-fernandez-5a6464213" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
@@ -50,4 +51,4 @@ Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologi
 
 🚀 *"A jornada é tão importante quanto o destino."*
 
-![Luis Fernandez](./Caricatura.png)
+<img src="./Caricatura.png" width="150" height="150" />
