@@ -1,6 +1,4 @@
-## Hey there! 👋 I'm Luis Fernandez
-
-Welcome to my little corner of GitHub! I'm Luis Fernandez, um eterno curioso e apaixonado por tecnologia.
+Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
 
 ### A bit about me 🌟
 
