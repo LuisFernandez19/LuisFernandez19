@@ -16,7 +16,7 @@ Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologi
 - 💬 Se quiser bater um papo sobre Python, Engenharia de Software, ou trocar experiências sobre Salesforce, estou por aqui!
 
 ### Let’s Connect! 📫
-- **E-mail**: [SeuEmail@example.com](fernandezlh19@gmail.com)
+- **E-mail**: [SeuEmail@example.com](fernandezlh19@gmail.com )
 - **LinkedIn**: [Seu LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luis-fernandez-5a6464213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
