@@ -1,5 +1,8 @@
 Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologia.
 
+![Luis Fernandez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandez19&theme=dark&show_icons=true)
+
+
 ### A bit about me 🌟
 
 - 🎓 **Formação**: Estou me formando em Engenharia de Software e, no momento, explorando o universo de Python na **Universidade de Massachusetts**. 
@@ -16,8 +19,9 @@ Welcome to my  GitHub! I'm Luis Fernandez, um curioso e apaixonado por tecnologi
 - 💬 Se quiser bater um papo sobre Python, Engenharia de Software, ou trocar experiências sobre Salesforce, estou por aqui!
 
 ### Let’s Connect! 📫
-- **E-mail**: [SeuEmail@example.com](fernandezlh19@gmail.com )
-- **LinkedIn**: [Seu LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luis-fernandez-5a6464213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **E-mail**: [fernandezlh19@gmail.com](mailto:fernandezlh19@gmail.com)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/luis-fernandez-5a6464213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ##
 
 <div>
